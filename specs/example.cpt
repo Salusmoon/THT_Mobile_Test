@@ -1,0 +1,16 @@
+Created by testinium on 2.06.2021
+
+This is a concept file with following syntax for each concept.
+# anasayfa işlemleri
+* izin kabul
+* cookie kabul
+* bilet yerine geçis
+
+# bilet arama
+* tek yön seçilir
+* kalkıs yeri sec "SAW"
+* varış yerini seç "ESB"
+* tarih tıkla
+* yetiskin sayısı arttır
+* ucus ara
+* en üst bilet ekonomik olarak seçilir
